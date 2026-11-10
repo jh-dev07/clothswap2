@@ -1,0 +1,9 @@
+.gradle/
+.android/
+build/
+local.properties
+.venv/
+__pycache__/
+*.sqlite3*
+server/backend/weights/
+server/backend/outputs/
